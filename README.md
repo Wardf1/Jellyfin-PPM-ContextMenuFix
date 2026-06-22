@@ -159,21 +159,3 @@ or clear the browser cache if the changes do not appear immediately.
 | Right Click        | Opens More (...) menu     |
 | Ctrl + Right Click | Multi Select              |
 | Left Click         | Default Jellyfin behavior |
-
----
-
-# Compatibility
-
-Tested with:
-
-* Jellyfin Server 10.11.10
-* Jellyfin Web
-* Jellyfin Desktop
-* Jellyfin Enhanced
-* Editor's Choice
-* JavaScript Injector
-
----
-JavaScript Injector repository:
-
-[n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector)
